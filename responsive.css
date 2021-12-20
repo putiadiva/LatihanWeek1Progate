@@ -1,0 +1,6 @@
+@media (max-width: 670px) {
+    .courses-cards .card {
+        flex: auto;
+        width: 100%;
+    }
+}
